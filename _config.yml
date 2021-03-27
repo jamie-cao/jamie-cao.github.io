@@ -45,7 +45,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: jamiecao
+# disqus_username: jamiecao
 # Gitalk
 # gitalk:
 #   enable: true    #是否开启Gitalk评论
